@@ -24,9 +24,9 @@ A sleek and responsive stopwatch application built using React. This stopwatch a
 
 ## 📸 Screenshots
 
-| Running | Stopped | Lap Function |
-|---------|--------|--------------|
-| ![Running](start.png) | ![Stopped](stop(2).png) | ![Lap](reset.png) |
+| Running | Reset |
+|---------|--------------|
+| ![Running](start.png) | ![Lap](reset.png) |
 
 ---
 
