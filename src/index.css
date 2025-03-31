@@ -1,0 +1,47 @@
+.container {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(10, 112, 81);
+  box-shadow: 0px 0px 4px 3px rgb(196, 196, 196);
+  padding: 44px;
+  border-radius: 4px;
+  margin-top: 55px;
+  font-family: "Roboto", sans-serif;
+}
+
+.container:hover{
+  background-color: rgb(83, 225, 182);
+}
+
+.container h1 {
+  font-size: 2.5rem;
+  position: absolute;
+  top: 11%;
+  margin-left: 6%;
+  text-align: center;
+}
+.container button {
+  position: relative;
+  margin-top: 25%;
+  width: 100px;
+  height: 36px;
+  font-size: 21px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: 4px;
+}
+
+.start {
+  background-color: rgb(5, 231, 5);
+  margin: 5px;
+}
+.stop {
+  background-color: rgb(250, 16, 16);
+  margin: 5px;
+}
+.reset {
+  background-color: rgb(250, 185, 8);
+  margin: 5px;
+}
